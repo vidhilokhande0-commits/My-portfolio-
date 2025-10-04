@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Maaz Aslam Chogle - Portfolio</title>
+  <title>Vidhi kamlesh lokhande - portfolio</title>
 </head>
 <body>
-  <h1>Maaz Aslam Chogle</h1>
+  <h1>vidhi kamlesh lokhande </h1>
   <nav>
     <a href="#about">About</a> |
     <a href="#edu">Education</a> |
@@ -14,28 +14,27 @@
   <hr>
   <section id="about">
     <h2>About Me</h2>
-    <p>Passionate web developer. Love building clean, efficient websites!</p>
+    <p>I am passionate about learning coding as I am interested in software. I will try my best to learn Web development.</p>
   </section>
   <hr>
   <section id="edu">
     <h2>Education</h2>
     <ul>
-      <li>SSC (2019, 92.4%) - St. Mary's School</li>
-      <li>HSC (2021, 88.6%) - K. J. Somaiya College</li>
+      <li>SSC (2023, 70%) - Bharti vidyapeeth school.</li>
+      <li>HSC (2025, 60%) - N R Bhagat College</li>
     </ul>
   </section>
   <hr>
   <section id="proj">
     <h2>Projects</h2>
     <ul>
-      <li>E-commerce Website (HTML, CSS, JS)</li>
-      <li>Personal Blog (Responsive)</li>
+      <li>An application to keep ur note with highlighted points.</li>
     </ul>
   </section>
   <hr>
   <footer id="contact">
-    <p>Email: maaz.chogle@email.com</p>
-    <p>&copy; 2025 Maaz Aslam Chogle</p>
+    <p>Email: vidhilokhande0@email.com</p>
+    <p>&copy; 2025 vidhi kamlesh lokhande </p>
   </footer>
 </body>
 </html>
