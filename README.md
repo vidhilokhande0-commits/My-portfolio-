@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  vidhi kamlesh Lokhande portfolio 
 </head>
 <body>
   <h1>vidhi kamlesh lokhande </h1>
