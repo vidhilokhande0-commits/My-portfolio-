@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> </title>
+  <meta charset="UTF-8">
+  <title>vidhi kamlesh Lokhande portfolio </title>
 </head>
 <body>
   <h1>vidhi kamlesh lokhande </h1>
