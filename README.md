@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Vidhi kamlesh lokhande - portfolio </title>
+  <title> </title>
 </head>
 <body>
   <h1>vidhi kamlesh lokhande </h1>
